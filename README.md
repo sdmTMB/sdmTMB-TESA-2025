@@ -1,8 +1,8 @@
-# Spatial and spatiotemporal models with sdmTMB for estimating species distribution and index standardization
+# Workshop: Spatial and spatiotemporal models with sdmTMB for estimating species distribution and index standardization
 
-Slides and exercises: <https://pbs-assess.github.io/sdmTMB-TESA-2025>
+## Slides and exercises: <https://pbs-assess.github.io/sdmTMB-TESA-2025>
 
-## Spatial and spatiotemporal modelling with sdmTMB
+### Course description:
 
 This course will cover introductory to advanced uses of the sdmTMB R package. sdmTMB is an R package for fitting spatial and spatiotemporal generalized linear mixed effect models (GLMMs) using TMB (Template Model Builder) and the SPDE (Stochastic Partial Differential Equation) approach to approximating Gaussian random fields with Gaussian Markov random fields. A common application is spatially explicit species distribution modeling (SDM). Other fisheries applications include index standardization, combining survey data, tracking species redistribution, and simulating data to evaluate survey designs. This course will consist of 2.5 days of instruction and exercises, plus a half day featuring talks on recent applications of sdmTMB and opportunities for participants to present and discuss their own use cases or modeling challenges. 
 
