@@ -1,6 +1,6 @@
 # Workshop: Spatial and spatiotemporal models with sdmTMB for estimating species distribution and index standardization
 
-## Slides and exercises: <https://pbs-assess.github.io/sdmTMB-TESA-2025>
+## Slides and exercises: <https://sdmTMB.github.io/sdmTMB-TESA-2025>
 
 ### Course description:
 
