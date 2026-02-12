@@ -9,7 +9,7 @@ execute:
 
 # Goals:
 
--   Gain exposure to combining survey data from two surveys with different capabilities
+-   Gain exposure to combining survey data from two surveys with different catchabilities
 -   Gain familiarity working with offsets
 -   Gain exposure to working with spatially varying coefficients for catchability
 -   Gain exposure to working with count (longline) data
